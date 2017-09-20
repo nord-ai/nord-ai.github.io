@@ -1,0 +1,18 @@
+body {
+    font-family: 'Poiret One', cursive;
+    color: white;
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #212326;
+}
+
+div#title {
+    width: 250pt;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 80pt;
+    font-weight: normal;
+}
