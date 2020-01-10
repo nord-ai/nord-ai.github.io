@@ -1,17 +1,12 @@
 body {
-    font-family: 'Poiret One', cursive;
-    color: white;
-    background-size: cover;
+    color: black;
     background-repeat: no-repeat;
-    background-color: #212326;
+    background-color: white;
+    text-align: center;
 }
 
-div#title {
-    width: 250pt;
+img#logo {
     margin: 0 auto;
-}
-
-h1 {
-    font-size: 80pt;
-    font-weight: normal;
+    padding-top: 10%;
+    width: 40%;
 }
